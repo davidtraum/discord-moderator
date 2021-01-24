@@ -1,0 +1,1 @@
+['wie', 'viel', 'spieler']:['Ein Spielerlimit pro Runde ist nicht vorhanden.']
